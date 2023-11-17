@@ -1,0 +1,6 @@
+C:\Users\ivan3\source\repos\WpfApp1\GameModel\obj\Debug\GameModel.csproj.AssemblyReference.cache
+C:\Users\ivan3\source\repos\WpfApp1\GameModel\obj\Debug\GameModel.csproj.CoreCompileInputs.cache
+C:\Users\ivan3\source\repos\WpfApp1\GameModel\bin\Debug\GameModel.dll
+C:\Users\ivan3\source\repos\WpfApp1\GameModel\bin\Debug\GameModel.pdb
+C:\Users\ivan3\source\repos\WpfApp1\GameModel\obj\Debug\GameModel.dll
+C:\Users\ivan3\source\repos\WpfApp1\GameModel\obj\Debug\GameModel.pdb

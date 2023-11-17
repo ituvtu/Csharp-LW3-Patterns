@@ -1,0 +1,9 @@
+C:\Users\ivan3\source\repos\WpfApp1\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\ivan3\source\repos\WpfApp1\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\ivan3\source\repos\WpfApp1\ViewModels\obj\Debug\ViewModels.csproj.AssemblyReference.cache
+C:\Users\ivan3\source\repos\WpfApp1\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\ivan3\source\repos\WpfApp1\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\ivan3\source\repos\WpfApp1\ViewModels\obj\Debug\ViewModels.pdb
+C:\Users\ivan3\source\repos\WpfApp1\ViewModels\bin\Debug\GameModel.dll
+C:\Users\ivan3\source\repos\WpfApp1\ViewModels\bin\Debug\GameModel.pdb
+C:\Users\ivan3\source\repos\WpfApp1\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
